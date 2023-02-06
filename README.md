@@ -9,7 +9,7 @@ A Gaussian-enveloped noise (GEN) vocoder can be generate by changing the carrier
 
 [2] Fanhui Kong, Huali Zhou, Yefei Mo, Mingyue Shi, Qinglin Meng, Nenghengzheng. Comparable Encoding, Comparable Perceptual Pattern: Acoustic and Electric Hearing. Submitted to a Journal, Feb. 2023.
 
-Size: ~674 KB
+Size: ~700 KB
 
 Platform: MATLAB, R2020a or newer versions.
 
@@ -17,9 +17,10 @@ Environment: No requirement.
 
 How to use: 
 The GETvoc.m is the main code for GET vocoder introduced in this manuscript. 
-Run VocMain.m. The following figure will come out and a vocoded sound will be presented.
+Run VocMain.m. A figure will come out and a vocoded sound will be presented.
  
-(Note: the code of ACE strategy and spectrogram are from the thirty parties. They have been provided.)
+(Note: the code of ACE strategy and spectrogram are from the thirty parties.
+The ACE strategy program has been adapted from the CCiMobile program, which can be found at https://github.com/CILabUTD/CCi-MOBILE.)
 
 Contact: 
 Qinglin Meng
