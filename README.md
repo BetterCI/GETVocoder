@@ -1,9 +1,11 @@
 # GETVocoder
 
 Description:
-The function of this MATLAB code is for the Gaussian-enveloped tone (GET) vocoder described in the experiment of the following manuscript.
+The function of this MATLAB code is for the Gaussian-enveloped tone (GET) vocoder. Its theory is firstly detaily introduced in [1].
+A Gaussian-enveloped noise (GEN) vocoder can be generate by changing the carrier of GET from tone to noise. The idea of GEN can be found in [2]. A systematic experiment could be found in [2]
 
-Qinglin Meng, Huali Zhou, Thomas Lu, and Fan-Gang Zeng. Pulsatile Gaussian-Enveloped Tones (GET) Vocoders for Cochlear-Implant Simulation. Submitted to a Journal, Dec. 2022.
+[1] Qinglin Meng, Huali Zhou, Thomas Lu, and Fan-Gang Zeng. Pulsatile Gaussian-Enveloped Tones (GET) Vocoders for Cochlear-Implant Simulation. Submitted to a Journal, Dec. 2022.
+[2] Fanhui Kong, Huali Zhou, Yefei Mo, Mingyue Shi, Qinglin Meng, Nenghengzheng. Comparable Encoding, Comparable Perceptual Pattern: Acoustic and Electric Hearing. Submitted to a Journal, Feb. 2023.
 
 Size: ~674 KB
 
