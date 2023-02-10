@@ -20,7 +20,8 @@ Requirements: No additional environment requirements.
 
 Usage: The main code for the GET vocoder is GETvoc.m. To use the code, simply run VocMain.m. This will produce a figure and present a vocoded sound.
 
-Note: The code for the ACE strategy and spectrogram are sourced from third-party sources. The ACE strategy program has been adapted from the CCiMobile program, which can be found at https://github.com/CILabUTD/CCi-MOBILE.
+Note: The code for the ACE strategy and spectrogram are sourced from third-party sources. The ACE strategy program has been adapted from the CCiMobile program, which can be found at https://github.com/CILabUTD/CCi-MOBILE. 
+This software is intended for academic research purposes only and is not intended for commercial use. Any unauthorized use is strictly prohibited.
 
 Contact:
 
